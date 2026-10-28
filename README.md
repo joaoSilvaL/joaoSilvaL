@@ -71,6 +71,24 @@ Tenho interesse em desenvolver soluções inteligentes, construir pipelines de d
 
 ---
 
+## 🚀 Projetos em Destaque
+
+### 📊 [Análise Exploratória em Preços de Matérias-Primas](https://github.com/joaoSilvaL/ExploratoryDataAnalysisProject)
+Projeto de análise exploratória de dados voltado ao estudo de preços de matérias-primas, com foco na investigação dos dados e na identificação de padrões e tendências.
+
+**Foco:** Análise Exploratória de Dados (EDA) · Análise de Dados · Visualização de Dados
+
+🔗 [Acessar repositório](https://github.com/joaoSilvaL/ExploratoryDataAnalysisProject)
+
+### 🎵 [Classificação de Músicas: Agitadas ou Lentas](https://github.com/joaoSilvaL/SpotifyMusicClassificationProject)
+Projeto de classificação de músicas em duas categorias — agitadas ou lentas — utilizando dados relacionados a características musicais para abordar um problema de classificação.
+
+**Foco:** Machine Learning · Classificação · Análise de Dados
+
+🔗 [Acessar repositório](https://github.com/joaoSilvaL/SpotifyMusicClassificationProject)
+
+---
+
 ### 💼 Experiência
 
 **Pesquisador em PD&I — VIRTUS/UFCG**  
