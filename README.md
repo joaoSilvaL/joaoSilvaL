@@ -71,7 +71,7 @@ Tenho interesse em desenvolver soluções inteligentes, construir pipelines de d
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos Pessoais
 
 ### 📊 [Análise Exploratória em Preços de Matérias-Primas](https://github.com/joaoSilvaL/ExploratoryDataAnalysisProject)
 Projeto de análise exploratória de dados voltado ao estudo de preços de matérias-primas, com foco na investigação dos dados e na identificação de padrões e tendências.
