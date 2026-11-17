@@ -4,7 +4,7 @@
 
 Olá! Sou graduando em Ciência da Computação pela Universidade Federal de Campina Grande (UFCG), com interesse em Inteligência Artificial, Machine Learning, Ciência de Dados e Engenharia de Software.
 
-Atuei como pesquisador em Pesquisa, Desenvolvimento e Inovação (PD&I) no VIRTUS/UFCG, participando do desenvolvimento de soluções envolvendo Inteligência Artificial, Visão Computacional e processamento de dados com Python.
+Atuo como pesquisador em Pesquisa, Desenvolvimento e Inovação (PD&I) no VIRTUS/UFCG, participando do desenvolvimento de soluções envolvendo Inteligência Artificial, Visão Computacional e processamento de dados com Python.
 
 Tenho interesse em desenvolver soluções inteligentes, construir pipelines de dados e explorar tecnologias como Large Language Models (LLMs), Processamento de Linguagem Natural (NLP), Retrieval-Augmented Generation (RAG) e Agentes de IA.
 
