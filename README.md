@@ -73,6 +73,16 @@ Tenho interesse em desenvolver soluções inteligentes, construir pipelines de d
 
 ## 🚀 Projetos Pessoais
 
+### 🛒 [Análise de Dados e Segmentação de Clientes — Online Retail II](https://github.com/joaoSilvaL/projeto-port)
+
+Projeto de análise de dados transacionais de um e-commerce, com foco na compreensão do comportamento dos clientes e na identificação de segmentos com características semelhantes.
+
+O projeto envolve preparação e armazenamento dos dados em SQLite, desenvolvimento de consultas SQL para análise de métricas de clientes e aplicação da técnica RFM (Recency, Frequency e Monetary) para construir uma base de segmentação. Também utiliza K-Means para agrupar clientes com base em seu comportamento de compra.
+
+**Foco:** Python · SQL · SQLite · Pandas · Análise de Dados · Engenharia de Atributos · RFM · Machine Learning · K-Means
+
+🔗 [Acessar repositório](https://github.com/joaoSilvaL/projeto-port)
+
 ### 📊 [Análise Exploratória em Preços de Matérias-Primas](https://github.com/joaoSilvaL/ExploratoryDataAnalysisProject)
 Projeto de análise exploratória de dados voltado ao estudo de preços de matérias-primas, com foco na investigação dos dados e na identificação de padrões e tendências.
 
